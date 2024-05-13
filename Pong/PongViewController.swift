@@ -154,8 +154,6 @@ class PongViewController: UIViewController {
 
             launchBall()
         }
-        
-        print("hello check")
     }
 
     // MARK: - Private Methods
